@@ -1,0 +1,70 @@
+**************   Cardbook number: 1**********************
+Card ID:	0
+Kind:	   
+Title:	   
+Author:	   
+Description:	   
+Pages:	   -842150451
+Year of publication:	   -842150451
+The year the book was received by the library:	   -842150451
+Status of the book:	   0
+**************   Cardbook number: 2**********************
+Card ID:	0
+Kind:	   
+Title:	   
+Author:	   
+Description:	   
+Pages:	   -842150451
+Year of publication:	   -842150451
+The year the book was received by the library:	   -842150451
+Status of the book:	   0
+**************   Cardbook number: 3**********************
+Card ID:	0
+Kind:	   
+Title:	   
+Author:	   
+Description:	   
+Pages:	   -842150451
+Year of publication:	   -842150451
+The year the book was received by the library:	   -842150451
+Status of the book:	   0
+**************   Cardbook number: 4**********************
+Card ID:	0
+Kind:	   
+Title:	   
+Author:	   
+Description:	   
+Pages:	   -842150451
+Year of publication:	   -842150451
+The year the book was received by the library:	   -842150451
+Status of the book:	   0
+**************   Cardbook number: 5**********************
+Card ID:	0
+Kind:	   
+Title:	   
+Author:	   
+Description:	   
+Pages:	   -842150451
+Year of publication:	   -842150451
+The year the book was received by the library:	   -842150451
+Status of the book:	   0
+**************   Cardbook number: 6**********************
+Card ID:	0
+Kind:	   
+Title:	   
+Author:	   
+Description:	   
+Pages:	   -842150451
+Year of publication:	   -842150451
+The year the book was received by the library:	   -842150451
+Status of the book:	   0
+**************   Cardbook number: 7**********************
+Card ID:	0
+Kind:	   
+Title:	   
+Author:	   
+Description:	   
+Pages:	   -842150451
+Year of publication:	   -842150451
+The year the book was received by the library:	   -842150451
+Status of the book:	   0

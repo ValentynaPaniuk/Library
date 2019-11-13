@@ -1,0 +1,64 @@
+7
+1
+BOOK
+C++ Console Carbon
+Stephen Prata
+Developer
+400
+2017
+2016
+0
+2
+BOOK
+Kobzar
+Taras Shevchenko
+Poems
+700
+2019
+2018
+1
+3
+MAGAZINE
+Vogue
+Anna Wintour
+Fashion
+30
+2019
+2019
+0
+4
+NEWSPAPER
+Voice of Ukraine
+Verkhovna Rada
+Bissness
+20
+2019
+2015
+0
+5
+BOOK
+Thoughts and Dreams
+Lesya Ukrainka
+Poems
+300
+2017
+1899
+0
+6
+MAGAZINE
+Business Inform
+Oleksandr Ristenko
+Bissness
+40
+2018
+2016
+0
+7
+BOOK
+Poems
+Taras Shevchenko
+Poems
+400
+2018
+2017
+0

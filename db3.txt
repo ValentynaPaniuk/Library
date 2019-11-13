@@ -1,0 +1,20 @@
+**************   Cardclient number: 1**********************
+Card ID:	
+Name:	    
+Hobby:	   
+Birthday:	  -842150451 -842150451 -842150451
+**************   Cardclient number: 2**********************
+Card ID:	
+Name:	    
+Hobby:	   
+Birthday:	  -842150451 -842150451 -842150451
+**************   Cardclient number: 3**********************
+Card ID:	
+Name:	    
+Hobby:	   
+Birthday:	  -842150451 -842150451 -842150451
+**************   Cardclient number: 4**********************
+Card ID:	
+Name:	    
+Hobby:	   
+Birthday:	  -842150451 -842150451 -842150451
